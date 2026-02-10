@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="#-about-us">About Us</a> •
-  <a href="#-our-focus">Our Focus</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-our-craft">Our Craft & Workbench</a> •
   <a href="#-contributing">Contributing</a>
 </p>
 
